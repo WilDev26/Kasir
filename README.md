@@ -3,7 +3,7 @@
 
 #### instal
 ```bash
-pkg update -y && pkg upgrade -y && pkg install git python-pip && git clone https://github.com/WilDev26/Kasir.git && cd Kasir && pip install -r requirements.txt && python main.py
+pkg update -y && pkg upgrade -y && pkg install git python-pip && git clone https://github.com/WilDev26/Kasir.git && cd Kasir && pip install -r requirements.txt && python3 kasir.py
 ```
 #### Penjelasan tentang Exif
 Kasir Python" merujuk pada sistem atau program kasir yang dibuat menggunakan bahasa pemrograman Python. .
